@@ -1,0 +1,24 @@
+SUPERPENGUIN — A LITTLE FURTHER
+Reviewed version 1, October 2026
+
+Open index.html in a desktop browser, or use the website address after GitHub Pages is enabled.
+Invitation code: SUP3RP3NGU1N
+
+Arrow keys: move. Space or Up: jump.
+Enter or Esc: close a story caption. Esc during play: pause. M: sound. N: memories.
+Memories lets you reread passed stories and notifications at your own pace.
+
+Each playable teammate has an original instrumental music loop.
+Music starts with the game. Pause stops the music. M mutes music and effects.
+Change player in the pause menu keeps your place and pages and changes the music.
+Visit a port lets you jump to another chapter while keeping your player and collected pages.
+
+No installation, no internet and no account needed.
+Use a desktop/laptop window at least 900 pixels wide.
+Falling never removes pages. All pages are optional.
+Each new visit starts at the beginning with an empty backpack.
+Keep this window open to continue your current journey. Esc pauses the game.
+
+The invitation screen is a playful gate, not encryption.
+Anyone with this file can read its content. Share it only with the team.
+This is an early souvenir prototype, ready to play and refine.
